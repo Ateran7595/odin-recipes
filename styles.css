@@ -1,6 +1,7 @@
 h1, h4{
     text-align: center;
     color: rgb(161, 37, 37);
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .center{
@@ -8,4 +9,5 @@ h1, h4{
     text-align:left;    
     width: 200px;
     margin:0 auto;
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
 }

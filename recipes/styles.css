@@ -11,7 +11,8 @@ img{
 
 ul, ol{
     color: rgb(35, 85, 88);
-    text-align:center;    
-    width: 700px;
+    text-align:left;    
+    width: 600px;
     margin:auto;
+    font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
 }
