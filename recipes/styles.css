@@ -1,6 +1,10 @@
 h1, h3, p, footer{
     text-align: center;
     color: rgb(151, 38, 38);
+    background-color: rgb(205, 241, 240);
+    padding: 8px;
+    width: 800px;
+    margin: 20px auto;
 }
 
 img{
@@ -15,4 +19,6 @@ ul, ol{
     width: 600px;
     margin:auto;
     font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(255, 203, 171);
+    padding: 8px;
 }
